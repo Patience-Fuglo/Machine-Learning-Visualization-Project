@@ -6,7 +6,7 @@ This project focuses on building a visualization tool for a machine learning con
 ## Project Structure
 The goal is to create a tool that visualizes the K-Means clustering algorithm, helping users understand its working. The project involves the following steps and components:
 
-## Steps to Build the K-Means Clustering Visualizer
+
 1. ### Choose a Programming Environment:
    C++: Ideal for its performance and extensive use in high-frequency trading platforms.
 

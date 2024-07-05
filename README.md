@@ -1,4 +1,4 @@
-# Machine Learning Visualization Project - K-Means Clustering Visualizer
+# Machine Learning Visualization Project: K-Means Clustering Visualizer
 
 ## Project Overview
 This project focuses on building a visualization tool for a machine learning concept, specifically a K-Means clustering visualizer, using C++. This involves several steps, focusing on implementing the K-Means algorithm and developing a simple graphical interface to visualize the clustering results.

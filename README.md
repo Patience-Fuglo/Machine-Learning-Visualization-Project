@@ -24,8 +24,8 @@ The goal is to create a tool that visualizes the K-Means clustering algorithm, h
    
 5. ### Interactive Features:
    User Interaction: Allow users to:
-      Adjust parameters (number of clusters, data distribution, etc.).
-      Visualize real-time updates as they adjust parameters.
+   Adjust parameters (number of clusters, data distribution, etc.).
+   Visualize real-time updates as they adjust parameters.
    Feedback: Provide visual feedback on cluster assignments and centroid movements during algorithm iterations.
  
  6. ### Enhancements and Customizations:
@@ -34,16 +34,11 @@ The goal is to create a tool that visualizes the K-Means clustering algorithm, h
     Animations for algorithm convergence.
     Different initialization strategies (random, k-means++, etc.).
 
- 7. ### Documentation and User Guide:
-   #### README: 
-    Provide clear instructions on how to install and use your tool.
-    User Guide: Include explanations of the K-Means algorithm and how to interpret the visualizations.
- 
-  8. ### Testing and Validation:
+  7. ### Testing and Validation:
     Unit Tests: Ensure each component functions correctly.
     User Testing: Gather feedback to improve usability and clarity of visualizations.
 
-  9. ### Deployment:
+  8. ### Deployment:
     Packaging: Package your tool for easy distribution (e.g., as a standalone executable or a C++ library).
     Publishing: Share your project on platforms like GitHub for others to use and contribute.
 
